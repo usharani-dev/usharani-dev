@@ -1,15 +1,9 @@
-<center>Hi, I'm Usharani from India!</center>
-<hr>
+<h1 style="text-align:center";>Hi, I'm Usharani</h1>
+<h3>A Passionate Front End Developer from India</h3><br>
 
-I looking for a job
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on **Front end projects**
+- 💬 Ask me about Html Css
+- 📫 How to reach me ushadev.works@gmail.com
 
-<!---
-usharani-dev/usharani-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
